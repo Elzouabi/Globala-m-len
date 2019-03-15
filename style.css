@@ -1,0 +1,42 @@
+body{
+	font-style: verdana;
+
+}
+
+.ptext{
+	color: black;
+	 background-color: green !important;
+	 padding: 4px;
+}
+img{
+	width: 100px;
+	height: 100px;
+}
+.second{
+	background-color: green !important;
+	color: black;
+}
+.third{
+	background-color: orange !important;
+	color: black;
+}
+.fourth{
+	background-color: green!important;
+	color: black;
+}
+.fifth{
+	background-color: yellow !important;
+	color: black;
+}
+.sixth{
+	background-color: orange !important;
+	color: black;
+}
+.seventh{
+	background: red !important;
+	color: black;
+}
+.eighth{
+	background: yellow !important;
+	color: black;
+}
